@@ -14,14 +14,6 @@ The projects cover a variety of domains such as **sports predictions, computer v
 - Features include **team statistics extraction, XGBoost training, tournament simulation**, and **visualizations**.  
 - Folder: `Asian_Cup_2025_Predictions/`
 
-### 2. [Project Name 2] *(Add description here)*
-- Brief description of the project, goals, and techniques used.  
-- Folder: `Project_Folder_2/`
-
-### 3. [Project Name 3] *(Add description here)*
-- Brief description of the project, goals, and techniques used.  
-- Folder: `Project_Folder_3/`
-
 > ⚡ Each project has its own **folder, scripts, dataset, and output files**, along with a dedicated `README.md` describing its workflow.
 
 ---
