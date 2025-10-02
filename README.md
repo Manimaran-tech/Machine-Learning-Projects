@@ -14,6 +14,13 @@ The projects cover a variety of domains such as **sports predictions, computer v
 - Features include **team statistics extraction, XGBoost training, tournament simulation**, and **visualizations**.  
 - Folder: `Asian_Cup_2025_Predictions/`
 
+### 2. [Project Name 2] *(Add description here)*
+- Brief description of the project, goals, and techniques used.  
+- Folder: `Project_Folder_2/`
+
+### 3. [Project Name 3] *(Add description here)*
+- Brief description of the project, goals, and techniques used.  
+- Folder: `Project_Folder_3/`
 
 > ⚡ Each project has its own **folder, scripts, dataset, and output files**, along with a dedicated `README.md` describing its workflow.
 
@@ -21,14 +28,28 @@ The projects cover a variety of domains such as **sports predictions, computer v
 
 ## 🛠️ Libraries & Tools
 
-I primarily work with the following **Python libraries and frameworks** for machine learning projects:
+### Programming & ML Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=flat&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-- **Data Handling & Analysis:** `pandas`, `numpy`  
-- **Machine Learning & Modeling:** `scikit-learn`, `xgboost`, `tensorflow`, `keras`  
-- **Data Visualization:** `matplotlib`, `seaborn`  
-- **Other Tools:** `pickle` for data serialization, `json` for parsing datasets, and `os` for file management
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 
-> Projects may also include libraries for **image processing**, **time-series analysis**, or **web deployment**, depending on the problem statement.
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### Other Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Pickle](https://img.shields.io/badge/Pickle-4B8BBE?style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 ---
 
@@ -52,12 +73,6 @@ I primarily work with the following **Python libraries and frameworks** for mach
 
 ---
 
-## 📌 Notes
-
-- Each project folder contains a dedicated `README.md` with **instructions, outputs, and sample results**.  
-- All datasets are either included or linked in each project folder.  
-- The repository is continuously updated with **new projects, improved models, and advanced techniques**.
-
----
-
 This repository serves as a **central hub** for all my machine learning experiments, models, and simulations, showcasing my growth and experience in AI/ML development.
+
+
