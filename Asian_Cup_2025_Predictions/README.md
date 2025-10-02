@@ -22,7 +22,6 @@ The model predicts winners of group stage matches, Super 4 matches, and the fina
 - `group_stage_predictions.csv` → Group stage match results  
 - `super4_predictions.csv` → Super 4 results  
 - `final_predictions.csv` → Final match result  
-- `all_predictions.csv` → Combined results  
 
 ---
 
