@@ -1,0 +1,13 @@
+match_stage,team1,team2,winner,prediction_confidence
+Group Match 1,Afghanistan,Hong Kong,Hong Kong,0.609
+Group Match 2,UAE,India,India,0.653
+Group Match 3,Hong Kong,Bangladesh,Bangladesh,0.689
+Group Match 4,Pakistan,Oman,Pakistan,0.9290000200271606
+Group Match 5,Bangladesh,Sri Lanka,Sri Lanka,0.82
+Group Match 6,Pakistan,India,India,0.935
+Group Match 7,UAE,Oman,UAE,0.515999972820282
+Group Match 8,Hong Kong,Sri Lanka,Sri Lanka,0.719
+Group Match 9,Bangladesh,Afghanistan,Bangladesh,0.5799999833106995
+Group Match 10,Pakistan,UAE,Pakistan,0.6169999837875366
+Group Match 11,Afghanistan,Sri Lanka,Sri Lanka,0.543
+Group Match 12,India,Oman,India,0.9290000200271606

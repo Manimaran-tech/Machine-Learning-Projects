@@ -1,0 +1,7 @@
+match_stage,team1,team2,winner,prediction_confidence
+Super 4 Match 1,India,Pakistan,India,0.7929999828338623
+Super 4 Match 2,India,Sri Lanka,India,0.6639999747276306
+Super 4 Match 3,India,Bangladesh,India,0.847000002861023
+Super 4 Match 4,Pakistan,Sri Lanka,Sri Lanka,0.54
+Super 4 Match 5,Pakistan,Bangladesh,Pakistan,0.7789999842643738
+Super 4 Match 6,Sri Lanka,Bangladesh,Bangladesh,0.505
