@@ -22,7 +22,7 @@ The projects cover a variety of domains such as **sports predictions, financial 
 - Combines statistical, machine learning, and deep learning models for robust forecasting.  
 - Key models used: **ARIMA-GARCH**, **XGBoost**, **LSTM-GRU Attention**, and **Monte Carlo Simulation**.  
 - Produces **confidence intervals, volatility forecasts, risk metrics, and trading recommendations**.  
-- Folder: `Stock Analysis/`
+- Folder: `Stock_Analysis_NVDA/`
 
 #### Example Output:
 | Metric | Value |
